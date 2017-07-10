@@ -1,0 +1,24 @@
+{
+    "dad": "David",
+    "mom": "Jen",
+    "children": [
+        {
+            "name": "Alex",
+            "age": 16,
+            "email": "Alex@gmail.com",
+            "favoriteMovieId": "tt1219699"
+        },
+        {
+            "name": "Brad",
+            "age": 12,
+            "email": "Brad@gmail.com",
+            "favoriteMovieId": "tt0480282"
+        },
+        {
+            "name": "Summer",
+            "age": 10,
+            "email": "Summer@gmail.com",
+            "favoriteMovieId": "tt0112573"
+        }
+    ]
+}
