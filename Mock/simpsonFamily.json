@@ -1,0 +1,25 @@
+{
+    "dad": "Homer",
+    "mom": "Marge",
+    "yearMarried":1980,
+    "children": [
+        {
+            "name": "Bart",
+            "age": 11,
+            "email": "Bart@gmail.com",
+            "favoriteMovieId": "tt1219699"
+        },
+        {
+            "name": "Lisa",
+            "age": 9,
+            "email": "Lisa@gmail.com",
+            "favoriteMovieId": "tt0480282"
+        },
+        {
+            "name": "Maggie",
+            "age": 1,
+            "email": "Maggie@gmail.com",
+            "favoriteMovieId": "tt0112573"
+        }
+    ]
+}
