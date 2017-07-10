@@ -63,9 +63,8 @@ namespace webapp
             );
 
         }
-        public void Configure(IApplicationBuilder app, IOptions<Family> family, IHostingEnvironment env)
+        public void Configure(IApplicationBuilder app, IHostingEnvironment env)
         {
-            var dad = family.Value.Dad;
            
             if(env.IsDevelopment()){
                 app.UseDeveloperExceptionPage();
