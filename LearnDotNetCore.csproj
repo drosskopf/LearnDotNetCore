@@ -5,7 +5,7 @@
     <DebugType>portable</DebugType>
     <AssemblyName>LearnDotNetCore</AssemblyName>
     <OutputType>Exe</OutputType>
-    <PackageId>lesson11</PackageId>
+    <PackageId>LearnDotNetCore</PackageId>
     <PackageTargetFallback>$(PackageTargetFallback);dnxcore50</PackageTargetFallback>
     <RuntimeFrameworkVersion>1.0.4</RuntimeFrameworkVersion>
   </PropertyGroup>
