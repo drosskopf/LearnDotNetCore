@@ -5,7 +5,7 @@ using Microsoft.Extensions.Configuration;
 using Newtonsoft.Json;
 using Newtonsoft.Json.Linq;
 
-namespace Lds.Mvc.Extensions
+namespace webapp
 {
     public static class IConfigurationBuilderExtensions
     {

@@ -1,6 +1,6 @@
 ﻿using Newtonsoft.Json.Linq;
 
-namespace Lds.Mvc.Extensions.CloudFoundryConfig
+namespace webapp
 {
     public class VcapServicesEntry
     {

@@ -1,7 +1,7 @@
 ﻿using System.Collections.Generic;
 using Newtonsoft.Json;
 
-namespace Lds.Mvc.Extensions.CloudFoundryConfig
+namespace webapp
 {
     public class VcapServicesConfig
     {
