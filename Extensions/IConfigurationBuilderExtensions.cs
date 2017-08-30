@@ -1,5 +1,4 @@
 ﻿using System.IO;
-using Lds.Mvc.Extensions.CloudFoundryConfig;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Configuration;
 using Newtonsoft.Json;
